@@ -1,0 +1,3 @@
+This project is a minimal example that you can use to develop a plugin system with shared libraries.
+
+Use the library dlfcn.h 
